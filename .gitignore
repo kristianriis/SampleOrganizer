@@ -1,0 +1,23 @@
+# .NET
+bin/
+obj/
+
+# IDE
+.idea/
+.vs/
+*.user
+*.suo
+
+# macOS
+.DS_Store
+
+# Tests
+TestResults/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
